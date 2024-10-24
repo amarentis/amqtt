@@ -19,7 +19,7 @@ Poetry will create a virtual environment for you
 
 Install:
 ```
-poetry install --no-dev
+poetry install --only main
 ```
 
 Usage:
